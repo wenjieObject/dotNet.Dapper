@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fZtHZzjrk99afoM9HFFO4Ii0uN+xdSXZIMYjGSNn/qY75mYi5o7qewcOxZCcWvMae5Sor9WBEDobVEslKDQNvw==",
+  "success": true,
+  "projectFilePath": "E:\\CsharpCode\\PalletMes\\Entity\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\dapper\\2.0.78\\dapper.2.0.78.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

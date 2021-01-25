@@ -1,0 +1,12 @@
+E:\CsharpCode\PalletMes\Integration\Integration\bin\Debug\netcoreapp3.1\Integration.deps.json
+E:\CsharpCode\PalletMes\Integration\Integration\bin\Debug\netcoreapp3.1\Integration.dll
+E:\CsharpCode\PalletMes\Integration\Integration\bin\Debug\netcoreapp3.1\Utils.dll
+E:\CsharpCode\PalletMes\Integration\Integration\bin\Debug\netcoreapp3.1\Utils.pdb
+E:\CsharpCode\PalletMes\Integration\Integration\obj\Debug\netcoreapp3.1\Integration.csprojAssemblyReference.cache
+E:\CsharpCode\PalletMes\Integration\Integration\obj\Debug\netcoreapp3.1\Integration.AssemblyInfoInputs.cache
+E:\CsharpCode\PalletMes\Integration\Integration\obj\Debug\netcoreapp3.1\Integration.AssemblyInfo.cs
+E:\CsharpCode\PalletMes\Integration\Integration\obj\Debug\netcoreapp3.1\Integration.csproj.CopyComplete
+E:\CsharpCode\PalletMes\Integration\Integration\bin\Debug\netcoreapp3.1\Integration.pdb
+E:\CsharpCode\PalletMes\Integration\Integration\obj\Debug\netcoreapp3.1\Integration.csproj.CoreCompileInputs.cache
+E:\CsharpCode\PalletMes\Integration\Integration\obj\Debug\netcoreapp3.1\Integration.dll
+E:\CsharpCode\PalletMes\Integration\Integration\obj\Debug\netcoreapp3.1\Integration.pdb

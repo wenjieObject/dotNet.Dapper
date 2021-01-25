@@ -1,0 +1,9 @@
+E:\CsharpCode\PalletMes\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+E:\CsharpCode\PalletMes\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+E:\CsharpCode\PalletMes\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+E:\CsharpCode\PalletMes\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+E:\CsharpCode\PalletMes\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+E:\CsharpCode\PalletMes\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+E:\CsharpCode\PalletMes\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.pdb
+E:\CsharpCode\PalletMes\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.csproj.CoreCompileInputs.cache
+E:\CsharpCode\PalletMes\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
