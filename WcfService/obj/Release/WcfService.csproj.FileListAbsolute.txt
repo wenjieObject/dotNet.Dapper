@@ -1,0 +1,10 @@
+E:\CsharpCode\PalletMes\WcfService\bin\WcfService.dll.config
+E:\CsharpCode\PalletMes\WcfService\bin\WcfService.dll
+E:\CsharpCode\PalletMes\WcfService\bin\WcfService.pdb
+E:\CsharpCode\PalletMes\WcfService\bin\Newtonsoft.Json.dll
+E:\CsharpCode\PalletMes\WcfService\bin\Newtonsoft.Json.xml
+E:\CsharpCode\PalletMes\WcfService\obj\Release\WcfService.csprojAssemblyReference.cache
+E:\CsharpCode\PalletMes\WcfService\obj\Release\WcfService.csproj.CoreCompileInputs.cache
+E:\CsharpCode\PalletMes\WcfService\obj\Release\WcfService.csproj.CopyComplete
+E:\CsharpCode\PalletMes\WcfService\obj\Release\WcfService.dll
+E:\CsharpCode\PalletMes\WcfService\obj\Release\WcfService.pdb

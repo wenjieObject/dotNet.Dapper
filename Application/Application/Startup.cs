@@ -35,8 +35,8 @@ namespace Application
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddControllers();
-            services.TryAddSingleton<IContract, StudentService>();
+            services.AddControllers();
+            //services.TryAddSingleton<IContract, StudentService>();
             
         }
 
@@ -70,11 +70,11 @@ namespace Application
 
             //app.UseAuthorization();
 
-            //app.UseEndpoints(endpoints =>
-            //{
-            //    endpoints.MapControllers();
-            //});
-            app.UseSoapEndpoint<IContract>("/StudentService.asmx", new BasicHttpBinding(), SoapSerializer.XmlSerializer);
+            app.UseEndpoints(endpoints =>
+            {
+                endpoints.MapControllers();
+            });
+            //app.UseSoapEndpoint<IContract>("/StudentService.asmx", new BasicHttpBinding(), SoapSerializer.XmlSerializer);
 
         }
 

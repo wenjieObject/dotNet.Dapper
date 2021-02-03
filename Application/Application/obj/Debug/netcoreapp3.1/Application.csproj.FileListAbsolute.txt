@@ -46,7 +46,6 @@ E:\CsharpCode\PalletMes\Application\Application\bin\Debug\netcoreapp3.1\Integrat
 E:\CsharpCode\PalletMes\Application\Application\bin\Debug\netcoreapp3.1\ViewModel.dll
 E:\CsharpCode\PalletMes\Application\Application\bin\Debug\netcoreapp3.1\Integration.pdb
 E:\CsharpCode\PalletMes\Application\Application\bin\Debug\netcoreapp3.1\ViewModel.pdb
-E:\CsharpCode\PalletMes\Application\Application\bin\Debug\netcoreapp3.1\Dapper.SimpleCRUD.dll
 E:\CsharpCode\PalletMes\Application\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
 E:\CsharpCode\PalletMes\Application\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.CommandLine.dll
 E:\CsharpCode\PalletMes\Application\Application\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.EnvironmentVariables.dll

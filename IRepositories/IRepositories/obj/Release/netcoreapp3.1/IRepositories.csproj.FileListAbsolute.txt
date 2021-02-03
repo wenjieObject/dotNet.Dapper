@@ -1,0 +1,12 @@
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\bin\Release\netcoreapp3.1\IRepositories.deps.json
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\bin\Release\netcoreapp3.1\IRepositories.dll
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\bin\Release\netcoreapp3.1\IRepositories.pdb
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\bin\Release\netcoreapp3.1\Entity.dll
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\bin\Release\netcoreapp3.1\Entity.pdb
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\obj\Release\netcoreapp3.1\IRepositories.csprojAssemblyReference.cache
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\obj\Release\netcoreapp3.1\IRepositories.AssemblyInfoInputs.cache
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\obj\Release\netcoreapp3.1\IRepositories.AssemblyInfo.cs
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\obj\Release\netcoreapp3.1\IRepositories.csproj.CoreCompileInputs.cache
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\obj\Release\netcoreapp3.1\IRepositories.csproj.CopyComplete
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\obj\Release\netcoreapp3.1\IRepositories.dll
+E:\CsharpCode\PalletMes\IRepositories\IRepositories\obj\Release\netcoreapp3.1\IRepositories.pdb

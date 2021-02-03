@@ -53,5 +53,10 @@ namespace Entity
         /// </summary>
         public string BG_DATE { get; set; }
 
+        /// <summary>
+        /// EDITION
+        /// </summary>
+        public string EDITION { get; set; }
+
     }
 }

@@ -1,0 +1,9 @@
+E:\CsharpCode\PalletMes\Entity\Entity\bin\Release\netcoreapp3.1\Entity.deps.json
+E:\CsharpCode\PalletMes\Entity\Entity\bin\Release\netcoreapp3.1\Entity.dll
+E:\CsharpCode\PalletMes\Entity\Entity\bin\Release\netcoreapp3.1\Entity.pdb
+E:\CsharpCode\PalletMes\Entity\Entity\obj\Release\netcoreapp3.1\Entity.csprojAssemblyReference.cache
+E:\CsharpCode\PalletMes\Entity\Entity\obj\Release\netcoreapp3.1\Entity.AssemblyInfoInputs.cache
+E:\CsharpCode\PalletMes\Entity\Entity\obj\Release\netcoreapp3.1\Entity.AssemblyInfo.cs
+E:\CsharpCode\PalletMes\Entity\Entity\obj\Release\netcoreapp3.1\Entity.csproj.CoreCompileInputs.cache
+E:\CsharpCode\PalletMes\Entity\Entity\obj\Release\netcoreapp3.1\Entity.dll
+E:\CsharpCode\PalletMes\Entity\Entity\obj\Release\netcoreapp3.1\Entity.pdb
